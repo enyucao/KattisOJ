@@ -11,15 +11,30 @@ Input starts with two integers 1≤N,P≤1000 on a single line, denoting the num
 
 ## Output
 Output should consist of a single integer: the number of carrots that will be handed out during the contest.
-
+```
 Sample Input 1	
 2 1
 carrots?
 bunnies
+
 Sample Output 1
 1
 Sample Input 2	
 1 5
 sovl problmz
+
 Sample Output 2
 5
+```
+# Feedback
+## 1. It takes time to understand the question.
+The N lines are useless information!
+
+## 2. Use the appropraite methods for inputs
+Check the code here. Use the template and don't waste time. 
+## 3. Throwaway variable
+Using a double underscore __ as your throwaway variable if better than an underscore!
+
+_ is used by Python’s gettext module for internationalization
+
+See https://www.quora.com/What-does-_-in-Python-mean-in-a-for-loop
